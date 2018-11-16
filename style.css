@@ -1,0 +1,83 @@
+.container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.napisz
+{
+	width: 470px;
+	min-height: 500px;
+	background-color: pink;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	padding: 15px;
+	float: left;
+
+}
+.nas
+{
+	text-transform: uppercase;
+	background-color: purple;
+	color: rgb(255, 141, 35);
+	font-size: 24px;
+}
+.adres
+{
+	background-color: blue;
+	min-height: 120px;
+	line-height: 35px;
+	margin-top: 50px;
+	color: white;
+}
+.form
+{
+	width: 470px;
+	min-height: 500px;
+	background-color: green;
+	text-align: center;
+	padding: 15px;
+	float: left;
+
+}
+.map
+{
+	background-color: grey;
+	min-height: 300px;
+	clear: both;
+}
+
+
+footer
+{
+	display: flex;
+	justify-content: space-between;
+	min-height: 100px;
+	background-color: yellow;
+}
+.ikony
+{
+	min-height: 30px;
+	background-color: olive;
+	margin-right: 100px;
+}
+.paula
+{
+	min-height: 80px;
+	background-color: lime;
+	margin-left: 100px;
+	color: white;
+}
+p 
+{
+	float: left;
+}
+.icon-copyright
+{
+	float: left;
+}
+.input
+{
+	margin: 15px;
+}
